@@ -1,0 +1,3 @@
+D:/rest-c-main/CMakeFiles/rest_server.dir
+D:/rest-c-main/CMakeFiles/edit_cache.dir
+D:/rest-c-main/CMakeFiles/rebuild_cache.dir
